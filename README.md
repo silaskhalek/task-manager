@@ -1,4 +1,4 @@
-**Gerenciador de Tarefas**
+# Gerenciador de Tarefas
 
 Este é um simples gerenciador de tarefas em Python, que permite ao usuário adicionar, remover e listar tarefas. As tarefas são salvas em um arquivo de texto (tasks.txt), permitindo que os dados sejam persistidos entre execuções do programa.
 
